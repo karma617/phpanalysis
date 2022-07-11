@@ -1,0 +1,22 @@
+{
+  "name": "karma617/phpanalysis",
+  "type": "library",
+  "description": "The PHP library for phpanalysis",
+  "keywords": ["phpanalysis"],
+  "homepage": "https://github.com/karma617/phpanalysis",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "karma617",
+      "email": "723875993@qq.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0"
+  },
+  "require-dev": {
+  },
+  "autoload": {
+    "psr-4": {"PHPAnalysis\\": ""}
+  }
+}
